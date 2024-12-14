@@ -1,0 +1,72 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f9fa;
+  background-image: url(images100.jpeg);
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  color: black;
+  line-height: 1.6;
+}
+.container {
+  max-width: 900px;
+  margin: 20px auto;
+  background: #ffffff;
+  background-image: url(pngtree-simple.jpg);
+  background-size: cover;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+header h1 {
+  color: black;
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+header p {
+  font-size: 1em;
+  color: black;
+}
+.section {
+  margin-bottom: 20px;
+}
+.section h2 {
+  border-bottom: 2px solid black;
+  color: black;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+  font-size: 1.5em;
+}
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+table td {
+  padding: 8px;
+  border-bottom: 1px solid #dee2e6;
+}
+.hover-effect:hover {
+  color: #17a2b8;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+.footer {
+  text-align: center;
+  font-size: 0.9em;
+  color: black;
+  margin-top: 20px;
+}
+
+
+
+
+
+
